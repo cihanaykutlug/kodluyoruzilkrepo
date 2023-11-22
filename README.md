@@ -9,7 +9,8 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/) Front-End Eğitimininde oluşturdu
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için :
-```cd kodluyoruzilkrepo
+```
+cd kodluyoruzilkrepo
  code .
 ```
 
